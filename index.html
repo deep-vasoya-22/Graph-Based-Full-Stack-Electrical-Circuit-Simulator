@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circuit Simulator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Interactive Circuit Simulator</h1>
+    <div id="toolbar">
+        <h3>Component Palette</h3>
+        <button id="selectBtn">Select</button>
+        <button id="resistorBtn">Resistor</button>
+        <button id="voltageSourceBtn">Voltage Source</button>
+        <button id="wireBtn">Wire</button>
+        <button id="pathBtn">Analyze Path</button>
+        <button id="rotateBtn">Rotate</button>
+
+    </div>
+    <div id="controls">
+        <button id="simulateBtn">Generate Netlist & Simulate</button>
+    </div>
+    <canvas id="circuitCanvas" width="800" height="600"></canvas>
+    <div id="editor-panel" class="hidden">
+    <h4 id="editor-title">Edit Component</h4>
+    <label for="editor-value">Value:</label>
+    <input type="number" id="editor-value">
+    <button id="editor-close">Close</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
