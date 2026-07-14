@@ -103,40 +103,6 @@ Graph-Based-Full-Stack-Electrical-Circuit-Simulator
 └── package.json
 ```
 
----
-
-## 📷 Screenshots
-
-### Home Interface
-
-> Add screenshot here
-
-```
-images/home.png
-```
-
----
-
-### Circuit Visualization
-
-> Add screenshot here
-
-```
-images/circuit.png
-```
-
----
-
-### Graph Representation
-
-> Add screenshot here
-
-```
-images/graph.png
-```
-
----
-
 ## 🚀 Installation
 
 ### Clone Repository
