@@ -210,7 +210,7 @@ Nirma University
 
 GitHub: https://github.com/deep-vasoya-22
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: https://www.linkedin.com/in/deep-vasoya-9467242b0
 
 ---
 
